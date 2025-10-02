@@ -2,6 +2,8 @@
 
 A modern, responsive music streaming web application built with React, TypeScript, and Tailwind CSS. Discover, play, and share music with a beautiful, intuitive interface.
 
+<img width="7680" height="4320" alt="Image" src="https://github.com/user-attachments/assets/3bed1ce3-f66e-4209-929a-12af4d18ceef" />
+
 ## 🎵 Features
 
 ### 🎶 Dynamic Music Player
